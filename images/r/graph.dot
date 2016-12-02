@@ -1,0 +1,21 @@
+
+digraph DAG {
+
+  # Intialization of graph attributes
+  graph [overlap = false,
+         layout = dot,
+         rankdir = LR]
+
+  # Initialization of node attributes
+  node [shape = plaintext,
+        fontname = Helvetica,
+        fixedsize = false]
+
+  # Initialization of edge attributes
+  edge [color = black,
+        rel = yields,
+        fontname = Helvetica]
+
+  a->b->c
+}
+

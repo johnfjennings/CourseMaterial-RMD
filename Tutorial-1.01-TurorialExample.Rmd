@@ -1,0 +1,29 @@
+---
+author: "John Jennings"
+date: "Academic Year 2016-2017"
+institute: "Limerick Institute of Technology"
+title: "CNSM4: Distributed and Cloud Computing"
+subtitle: "Tutorial 1.01: Printing your machine's name and IPv4 address"
+
+bibliography: bibliography.bib
+
+output:
+  pdf_document:
+    toc: false
+
+---
+
+## Introduction and Overview
+Tutorials are meetings of smaller groups of students to discuss specific topics related to the subject matter of the course. The key focus of tutorial groups is the interactive, participatory nature of the discussion. 
+
+Tutorial discussions rely for their success on what you do before and during a tutorial. The role of the tutor is to facilitate and encourage the exploration of the relevant issues and problems.
+
+### Before the tutorial
+Read the required articles or chapters as set out for your tutorial topic in your subject guide.
+think about the topic and formulate some basic ideas that you can contribute to the tutorial discussion about the topic.
+
+### During the tutorial
+Listen to other tutorial participants and contribute your ideas to the discussion. Ask questions. Do not leave the tutorial feeling confused.
+
+### After the tutorial
+Write down any notes of comments or ideas that you think are important to remember. Add these to your other subject notes.

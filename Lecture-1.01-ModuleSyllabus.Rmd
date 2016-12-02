@@ -1,0 +1,71 @@
+---
+author: "John Jennings"
+date: "Academic Year 2016-2017"
+institute: 'Limerick Institute of Technology'
+
+title: "Module Title"
+subtitle: 'Lecture 1.01 Introduction '
+bibliography: bibliography.bib
+---
+
+# Course Summary
+## Module Aim
+* This module is designed to 
+
+
+## Learning Outcomes
+On successful completion of this module the learner will/should be able to
+
+1. ...
+2. ...
+3. ...
+4. ...
+
+# Syllabus
+## Unit 1: Introduction to ...    
+* ..
+* ..
+
+## Unit 2: Principles of ...   
+* ..
+* ..
+
+## Unit 3: ...
+* ..
+* ..
+
+## Unit 4: ...       
+* ..
+* ..
+
+## Unit 5:
+* ..
+* ..
+
+
+# Assessment
+## Assessment
+* Continuous Assessment = 40%
+	- Mid-Year Exam = 20%
+	- Practicals / Assignments = 20%
+
+* Final Exam = 60%
+
+
+
+
+# Summary
+
+## Thank You
+
+\begin{center}
+\LARGE{Questions?}
+\end{center}
+ 
+---
+nocite: | 
+	@hwang, @CloudComputingPP, @colourisl
+---
+
+  
+## References{.allowframebreaks}
